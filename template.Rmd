@@ -1,0 +1,36 @@
+---
+title: "Report Template"
+author: "Cole Brookson"
+date: "10/24/2021"
+output: pdf_document
+---
+
+Using clearly labeled headers and sub-headers if necessary, outline the major sections, as described in the assignment handout.
+
+## A few tips:
+1 . To make simple tables (preferable to screenshots for smaller tables), use the following syntax:
+
+| header 1 | header 2 | header 3 |
+| ------- | ------- |------- |
+| x | | y | z | 
+
+2. To keep your code from displaying in your markdown, use `echo = FALSE` in your code chunk like as follows:
+```{r, echo = FALSE, messages = FALSE}
+x = 2 + 3
+# calling x will ensure it is printed into the knit pdf but the code isn't displayed
+print(x)
+```
+
+
+## Introduction 
+
+## Model
+
+## Results
+
+## Discussion
+
+## References
+
+## Supplementary Information
+
