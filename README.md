@@ -28,4 +28,5 @@ All references for your report including sources for parameterization are listed
 
 1. Do NOT display your code in the pdf final report. We will grade the code from the `.RMD`, not from the PDF.
 2. If you have large tables/figures that don't need to be in the meat of the presentation, put them in the supplementary information at the end of the paper and then refer to them in text (i.e. SI Fig. 1).
+3. The word count of 3000 is a HARD limit. You can aim to have the report be closer to 2500 words
 
